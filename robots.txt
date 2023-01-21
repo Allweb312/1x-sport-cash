@@ -1,0 +1,77 @@
+User-Agent: YadirectBot
+Disallow:
+
+User-Agent: YandexDirect
+Disallow:
+
+User-agent: *
+Disallow: /*account
+Disallow: /admin*
+Disallow: /*cabinet
+Disallow: /*contact_now
+Disallow: /*context/
+Disallow: /*error/
+Disallow: /*feedback/
+Disallow: /*group_description_
+Disallow: /*js_i18n
+Disallow: /*map/frame_map
+Disallow: /*opinions/create
+Disallow: /*redirect
+Disallow: /*preview
+Disallow: /*site_search
+Disallow: /*shopping_cart
+Disallow: /*shop_settings/
+Disallow: /*social_auth/
+Disallow: /*tracker/
+Disallow: /*remote
+Disallow: /*/shopping_cart
+Disallow: /*bb0=
+Disallow: /*bb1=
+Disallow: /*bb2=
+Disallow: /*bb3=
+Disallow: /*bb4=
+Disallow: /*bb5=
+Disallow: /*bb6=
+Disallow: /*bb7=
+Disallow: /*bb8=
+Disallow: /*bb9=
+Disallow: /*bms0=
+Disallow: /*bms1=
+Disallow: /*bms2=
+Disallow: /*bms3=
+Disallow: /*bms4=
+Disallow: /*bms5=
+Disallow: /*bms6=
+Disallow: /*bms7=
+Disallow: /*bms8=
+Disallow: /*bms9=
+Disallow: /*bss0=*bss0=
+Disallow: /*bss1=
+Disallow: /*bss2=
+Disallow: /*bss3=
+Disallow: /*bss4=
+Disallow: /*bss5=
+Disallow: /*bss6=
+Disallow: /*bss7=
+Disallow: /*bss8=
+Disallow: /*bss9=
+Disallow: /*cat_id=
+Disallow: /*search_term=
+Disallow: /*sort=
+Disallow: /*sub_domain=
+Disallow: /*view_as=
+Disallow: /*create_order_mobile/
+Disallow: /*contactnow_mobile/
+Disallow: /*certificates
+
+Disallow: /*debug
+Disallow: /*js/ckeditor_latest/
+Disallow: /*iframe-legacy.html
+
+Disallow: /*visited_block_html
+Disallow: /*recommended_block_html
+Disallow: /*accessory_slider_block_html
+Disallow: /*related_slider_block_html
+
+Host: http://sanielp2.beget.tech
+Sitemap: http://sanielp2.beget.tech/sitemap.xml

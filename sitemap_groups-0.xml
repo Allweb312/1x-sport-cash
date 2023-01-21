@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g402006-kornevaya-gruppa</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g7090209-uslugi-pechati</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g7090213-uslugi-proizvodstva</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g7090216-bloknoty</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g7090217-listovki</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g7090218-katalogi</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g7090219-pakety</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g7090220-stikery</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.sanielp2.beget.tech/g7090223-pos-materialy</loc>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>

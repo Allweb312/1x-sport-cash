@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>alemprint.kz</ShortName>
+    <Description>Поиск товаров и услуг на alemprint.kz</Description>
+    
+    <Image width="16" height="16" type="image/x-icon">/cloud-cgi/static/uaprom-static/favicon-hcddc76b4e406ee37dd8f14e8fc42f07d4.ico</Image>
+    <Url type="text/html" template="http://sanielp2.beget.tech/site_search?search_term={searchTerms}"/>
+    <Url type="application/x-suggestions+json" rel="suggestions" template="http://suggester-kz-prod.evo.run/search_suggester/suggest_company_opensearch_keywords.js?company_id=263794&amp;term={searchTerms}"/>
+</OpenSearchDescription>
